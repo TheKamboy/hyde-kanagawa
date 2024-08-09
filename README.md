@@ -1,5 +1,7 @@
 # Kanagawa Theme for Hyde!
 
+![screenshot](./assets/screenshot.png)
+
 > [!NOTE]
 > This is my first custom theme for Hyde, so please submit issues!
 
