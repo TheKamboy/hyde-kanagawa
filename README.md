@@ -9,3 +9,4 @@
 ## Sources
 
 - [Wallpapers](https://www.deviantart.com/niivu/art/Kanagawa-for-Windows-11-1021605687)
+- [Kvantum Theme](https://github.com/candyclaws/Utterly-Kanagawa/)
